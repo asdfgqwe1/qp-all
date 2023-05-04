@@ -1,0 +1,3 @@
+model_checkpoint_path: "/root/autodl-tmp/tf/leelaz-model-16000"
+all_model_checkpoint_paths: "/root/autodl-tmp/tf/leelaz-model-8000"
+all_model_checkpoint_paths: "/root/autodl-tmp/tf/leelaz-model-16000"
